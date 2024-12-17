@@ -1,5 +1,5 @@
 package database
 
-func call() string {
+func Call() string {
 	return "database has been called!"
 }
